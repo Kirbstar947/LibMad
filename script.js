@@ -17,3 +17,4 @@ let Story = ("On one random morning, " + Name + " decided to go to Starbucks." +
     "handed them " + "'" + Object2 + "'" + " instead!" + " The cashier asked if it would be cash or card, but " + "'" + Name + "'" + " pays with " + "'" + Object3 
     + "'" + "s. The cashier was stunned, and " + "'" + Name + "'" + " said any form of payment is payment while " + "'" + Cashier + "'" + " says that's " + string);
     // toString();
+console.log(Story);
